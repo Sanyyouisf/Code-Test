@@ -1,0 +1,5 @@
+C:\Users\Developer\projects\Test\Interview questions\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\Developer\projects\Test\Interview questions\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\Developer\projects\Test\Interview questions\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\Developer\projects\Test\Interview questions\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\Developer\projects\Test\Interview questions\ConsoleApp\obj\Debug\ConsoleApp.pdb
