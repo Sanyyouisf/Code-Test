@@ -11,19 +11,19 @@ namespace ConsoleApp
 
         public void PrimeList()
         {
-            List<int> result = new List<int>();
-           Console.WriteLine("enter the Max number of the Prime numbes");
+            Console.WriteLine("enter the Max number of the Prime numbes");
 
             int maxNumber = int.Parse(Console.ReadLine());
             Console.WriteLine("the prime numbers between {0} and {1} are: ", 2, maxNumber);
+
             bool isPrime = true;
             //check the max
             for (int i = 2; i <= maxNumber; i++)
             {
                 //check the factors
-                for (int j = 2; j < maxNumber; j++)
+                for (int j = 2; j <= maxNumber; j++)
                 {
-                    if (i != j &&  i  %j== 0)
+                    if (i != j && i % j == 0)
                     {
                         isPrime = false;
                         break;

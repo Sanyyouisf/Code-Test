@@ -18,8 +18,7 @@ namespace ConsoleApp
             return result;
 
             //or simply in one line 
-            //string result = string.Join(" ", input.Split(' ').Reverse());
-            //return result;
+            //return string.Join(" ", input.Split(' ').Reverse());
         }
     }
 }

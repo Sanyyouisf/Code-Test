@@ -40,14 +40,15 @@ namespace ConsoleApp
             //swap.Swap();
             //Console.ReadLine();
 
-            FuzzBuss t = new FuzzBuss();
-            t.fuzzBuzz(15);
-            Console.ReadLine();
+            //fuzz buzz
+            //FuzzBuss t = new FuzzBuss();
+            //t.fuzzBuzz(15);
+            //Console.ReadLine();
 
             //the prime list
-            //PrimeNumbers prime = new PrimeNumbers();
-            //prime.PrimeList();
-            //Console.ReadLine();
+            PrimeNumbers prime = new PrimeNumbers();
+            prime.PrimeList();
+            Console.ReadLine();
 
             //odd or even
             //OddOrEven method5 = new OddOrEven();
