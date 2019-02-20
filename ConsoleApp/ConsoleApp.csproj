@@ -52,7 +52,7 @@
     <Compile Include="ReverseWords2.cs" />
     <Compile Include="ReverseWords.cs" />
     <Compile Include="SwapTwoNumbers.cs" />
-    <Compile Include="Test.cs" />
+    <Compile Include="FuzzBuss.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
