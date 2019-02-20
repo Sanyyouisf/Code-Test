@@ -21,9 +21,9 @@ namespace ConsoleApp
             //Console.WriteLine(method2.Reverse("How Are you"));
             //Console.ReadLine();
 
-            ReverseWords2 method5 = new ReverseWords2();
-            Console.WriteLine(method5.Reverse("How Are you"));
-            Console.ReadLine();
+            //ReverseWords2 method5 = new ReverseWords2();
+            //Console.WriteLine(method5.Reverse("How Are you"));
+            //Console.ReadLine();
 
             //ReverseWords method3 = new ReverseWords();
             //Console.WriteLine(method3.ReverseStringWords("How Are you"));
@@ -34,6 +34,11 @@ namespace ConsoleApp
             //Compress method4 = new Compress();
             //Console.WriteLine(method4.CompressString("aaabbbccdddeeeeff"));
             //Console.ReadLine();
+
+            //swap the two numbers
+            SwapTwoNumbers swap = new SwapTwoNumbers();
+            swap.Swap();
+            Console.ReadLine();
         }
     }
 }
