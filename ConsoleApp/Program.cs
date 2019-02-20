@@ -41,8 +41,13 @@ namespace ConsoleApp
             //Console.ReadLine();
 
             // the test 
-            Test t = new Test();
-            Console.WriteLine(t.Reverse("Sany Yousif My Name"));
+            //Test t = new Test();
+            //Console.WriteLine(t.Reverse("Sany Yousif My Name"));
+            //Console.ReadLine();
+
+            //the prime list
+            PrimeNumbers prime = new PrimeNumbers();
+            prime.PrimeList();
             Console.ReadLine();
         }
     }
