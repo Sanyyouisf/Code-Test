@@ -46,9 +46,13 @@ namespace ConsoleApp
             //Console.ReadLine();
 
             //the prime list
-            PrimeNumbers prime = new PrimeNumbers();
-            prime.PrimeList();
-            Console.ReadLine();
+            //PrimeNumbers prime = new PrimeNumbers();
+            //prime.PrimeList();
+            //Console.ReadLine();
+
+            //odd or even
+            OddOrEven method5 = new OddOrEven();
+            method5.OddEven(3);
         }
     }
 }
