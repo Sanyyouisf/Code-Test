@@ -36,8 +36,13 @@ namespace ConsoleApp
             //Console.ReadLine();
 
             //swap the two numbers
-            SwapTwoNumbers swap = new SwapTwoNumbers();
-            swap.Swap();
+            //SwapTwoNumbers swap = new SwapTwoNumbers();
+            //swap.Swap();
+            //Console.ReadLine();
+
+            // the test 
+            Test t = new Test();
+            Console.WriteLine(t.Reverse("Sany Yousif My Name"));
             Console.ReadLine();
         }
     }

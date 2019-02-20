@@ -15,7 +15,7 @@ namespace ConsoleApp
             string result = string.Empty;
             string result2 = string.Empty;
 
-            foreach (char c in input)
+            foreach (var c in input)
             {
                 if (c.Equals(' '))
                 {
