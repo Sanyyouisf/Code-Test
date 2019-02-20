@@ -40,11 +40,6 @@ namespace ConsoleApp
             //swap.Swap();
             //Console.ReadLine();
 
-            // the test 
-            //Test t = new Test();
-            //Console.WriteLine(t.Reverse("Sany Yousif My Name"));
-            //Console.ReadLine();
-
             FuzzBuss t = new FuzzBuss();
             t.fuzzBuzz(15);
             Console.ReadLine();
